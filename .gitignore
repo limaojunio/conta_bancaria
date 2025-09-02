@@ -3,6 +3,11 @@
 /node_modules
 nodemon.json
 
+package-lock.json
+package.json
+tsconfig.json
+
+
 # Logs
 logs
 *.log
@@ -34,3 +39,5 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+
